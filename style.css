@@ -1,0 +1,56 @@
+html{
+    background-color: blue;
+}
+
+p{
+    font-size: 25px;
+}
+body{
+    margin: 50px;
+}
+
+
+h1{
+    color: red;
+}
+
+p1{
+    font-size: x-large;
+    margin: 50px;
+    text-align: left;
+}
+
+#Rango {
+    display: flex;
+    margin-left: 50px;
+
+}
+
+h2{
+    font-size: 60;
+    margin-left: 20px;
+}
+
+ol1{
+    font-size: 30;
+    margin-left: 20px;
+}
+
+h3{
+    font-size: 50;
+    margin-left: 20px;
+}
+
+#Hola{
+    display:flex;
+    margin-left: 50px;
+  
+    
+    
+}
+p2{
+    text-align: left;
+    font-size: x-large;
+    margin: 50px;
+   
+}
